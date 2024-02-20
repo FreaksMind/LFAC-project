@@ -1,0 +1,78 @@
+~import fdsf.txt
+~import cefs.txt
+
+.section global
+float dada; $float
+char am; $char
+string var1; $string
+bool var2; $bool
+float list1[5]; $array of float
+
+
+.section functions
+void abc( int grr[9] ){
+    if(x == 2 && 3*5 < x+8){
+
+    }
+    while(a) do {
+        while(a || b) do {
+            for(int i = 4, i > 5, x = x +1) {
+                    f("DADA", intcica, g(4+(x*y)));
+            }
+        }
+    }
+}
+
+void dc(int rr, char rrz, int cf, int daa){
+    int saceva;
+    bool br;
+}
+
+bool afbc(){
+    bool bz;
+
+    return b;
+}
+
+.section data_types
+class cl2{
+    int att;
+    int f(char bla[100])
+    {
+        float helau;
+        return a;
+    }
+};
+
+class cl1{
+    int atxt;
+    int fz(char bla[100])
+    {
+        float helzau;
+        return a;
+    }
+};
+init{
+    Eval(x);
+    TypeOf(r);
+    $print("ceva");
+    d = x*5+1; $ left_value - identifier, right_value - expression
+    list1[2] = x+list1[1]; $ left_value - element of array, right_value - expression
+
+    const int a = 5;
+    eu=2;
+    $ daaa ba
+    if(a<5)
+    {
+        ab=3;
+    }
+    for(int z=55, z<5, z++)
+    {
+
+    }
+    while(2 < 4) do
+    {
+        
+    }
+    fct(abc());
+}
